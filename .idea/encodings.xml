@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/detailed_analysis.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/news.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/news_extractor.py" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/output.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/sentiment_analysis_azure.py" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/upload_blob_to_azure.py" charset="windows-1252" />
+  </component>
+</project>
