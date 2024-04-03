@@ -4,8 +4,8 @@ def analyze_sentiment() -> None:
 
     from azure.core.credentials import AzureKeyCredential
     from azure.ai.textanalytics import TextAnalyticsClient
-    endpoint = "https://sentimentanzar.cognitiveservices.azure.com/"
-    key = "c8b97a9d92b44575aa463c2c082ebaac"
+    endpoint = ""
+    key = ""
 
     text_analytics_client = TextAnalyticsClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
